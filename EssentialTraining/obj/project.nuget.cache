@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7AvDPS2FigngSloTbFD+RHkeiri6jg49re50+EE7k1k767jHTjt6duuUcCkxl+pv2QCuWW3jZbh6iKGftc9ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LOPEZJ\\source\\repos\\EssentialTraining\\EssentialTraining\\EssentialTraining.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LOPEZJ\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LOPEZJ\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

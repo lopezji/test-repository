@@ -1,0 +1,13 @@
+C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.exe
+C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.deps.json
+C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.runtimeconfig.json
+C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.runtimeconfig.dev.json
+C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.dll
+C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.pdb
+C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.csprojAssemblyReference.cache
+C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.AssemblyInfoInputs.cache
+C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.AssemblyInfo.cs
+C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.dll
+C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.pdb
+C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.genruntimeconfig.cache
