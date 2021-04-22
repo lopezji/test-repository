@@ -8,5 +8,10 @@ namespace EssentialTraining
         {
             return a + b;
         }
+        
+      public double AddTwo(double a, double b)
+      {
+      return a + b;
+       }
     }
 }
