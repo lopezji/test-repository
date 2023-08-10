@@ -3,7 +3,7 @@ To test graphs in github
 
 ```mermaid
 flowchart LR
-    subgraph a[[BUILD MACHINE]]
+    subgraph a[BUILD MACHINE]
         direction LR
         subgraph a1[/.tar Files/]
         end
@@ -11,15 +11,15 @@ flowchart LR
         end
      end
 
-     subgraph b[[Hash Signing Server]]
+     subgraph b[Hash Signing Server]
         direction LR
-            subgraph b1[[Generate Hashes]]
+            subgraph b1[Generate Hashes]
                 direction TB
-                 ([Process Tar Files]) --> [/Hashes Files/]
+                 [Process Tar Files] --> [/Hashes Files/]
             end
             subgraph Crontab
                 direction TB 
-                RunJob --> b2[[Create Signatures]]
+                RunJob --> b2[Create Signatures]
                 b2 --> b3[/Signature Files/]
             end 
             b1 --> Crontab
