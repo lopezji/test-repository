@@ -12,7 +12,7 @@ flowchart LR
 
      subgraph b["Hash Signing Server"]
         direction TB
-            subgraph b1[Manual Processes Hashes]
+            subgraph b1[Manual Processes]
                 direction TB
                 b11(Process Tar Files) --> b12[/Hashes Files/]
                 c1("Create Final Files") --> c2[/Final KB tar files/]
