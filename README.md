@@ -3,27 +3,27 @@ To test graphs in github
 
 ```mermaid
 flowchart LR
-    subgraph BUILD MACHINE
+    subgraph BUILDMACHINE
         direction LR
-        subgraph .tar Files
+        subgraph .tarFiles
         end
         subgraph Hashes
         end
      end
 
-     subgraph Hash signing server
+     subgraph HashSigningServer
         direction LR
-            subgraph Generate Hashes
+            subgraph GenerateHashes
                 direction TB
-                 Process tar files --> Hashes files
+                 ProcessTarFiles --> HashesFiles
             end
             subgraph Crontab
                 direction TB 
                 RunJob --> CreateSignatures
             end 
-            Generate Hashes --> Crontab
+            GenerateHashes --> Crontab
      end               
 
-     BUILD MACHINE --> Hash signing server
+     BUILDMACHINE --> HashSigningServer
 
 ```
