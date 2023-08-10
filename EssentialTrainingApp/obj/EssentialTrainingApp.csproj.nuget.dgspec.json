@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LOPEZJ\\source\\repos\\EssentialTraining\\EssentialTrainingApp\\EssentialTrainingApp.csproj": {}
+    "C:\\Users\\LOPEZJ\\OneDrive - Aspen Technology, Inc\\Documents\\GitHub\\test-repository\\EssentialTrainingApp\\EssentialTrainingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LOPEZJ\\source\\repos\\EssentialTraining\\EssentialTrainingApp\\EssentialTrainingApp.csproj": {
+    "C:\\Users\\LOPEZJ\\OneDrive - Aspen Technology, Inc\\Documents\\GitHub\\test-repository\\EssentialTrainingApp\\EssentialTrainingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LOPEZJ\\source\\repos\\EssentialTraining\\EssentialTrainingApp\\EssentialTrainingApp.csproj",
+        "projectUniqueName": "C:\\Users\\LOPEZJ\\OneDrive - Aspen Technology, Inc\\Documents\\GitHub\\test-repository\\EssentialTrainingApp\\EssentialTrainingApp.csproj",
         "projectName": "EssentialTrainingApp",
-        "projectPath": "C:\\Users\\LOPEZJ\\source\\repos\\EssentialTraining\\EssentialTrainingApp\\EssentialTrainingApp.csproj",
+        "projectPath": "C:\\Users\\LOPEZJ\\OneDrive - Aspen Technology, Inc\\Documents\\GitHub\\test-repository\\EssentialTrainingApp\\EssentialTrainingApp.csproj",
         "packagesPath": "C:\\Users\\LOPEZJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LOPEZJ\\source\\repos\\EssentialTraining\\EssentialTrainingApp\\obj\\",
+        "outputPath": "C:\\Users\\LOPEZJ\\OneDrive - Aspen Technology, Inc\\Documents\\GitHub\\test-repository\\EssentialTrainingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,10 +26,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://artifactory1.rnd.aspentech.com:8081/artifactory/api/nuget/optiplant-nuget-dev-local": {},
-          "http://artifactory1.rnd.aspentech.com:8081/artifactory/api/nuget/v3/atcomponents-nuget-dev-virtual": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://artifactory.devops.aspentech.com": {}
+          "http://artifactory1.rnd.aspentech.com:8082/artifactory/api/nuget/optiplant-nuget-dev-local": {},
+          "http://artifactory1.rnd.aspentech.com:8082/artifactory/api/nuget/v3/atcomponents-nuget-dev-local": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }

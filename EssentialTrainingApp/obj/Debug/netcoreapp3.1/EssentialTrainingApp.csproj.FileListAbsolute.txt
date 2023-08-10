@@ -11,3 +11,30 @@ C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\ne
 C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.dll
 C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.pdb
 C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.genruntimeconfig.cache
+C:\Users\LOPEZJ\Documents\GitHub\test-repository\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.exe
+C:\Users\LOPEZJ\Documents\GitHub\test-repository\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.deps.json
+C:\Users\LOPEZJ\Documents\GitHub\test-repository\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.runtimeconfig.json
+C:\Users\LOPEZJ\Documents\GitHub\test-repository\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.runtimeconfig.dev.json
+C:\Users\LOPEZJ\Documents\GitHub\test-repository\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.dll
+C:\Users\LOPEZJ\Documents\GitHub\test-repository\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.pdb
+C:\Users\LOPEZJ\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.csproj.AssemblyReference.cache
+C:\Users\LOPEZJ\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.AssemblyInfoInputs.cache
+C:\Users\LOPEZJ\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.AssemblyInfo.cs
+C:\Users\LOPEZJ\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\LOPEZJ\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.dll
+C:\Users\LOPEZJ\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.pdb
+C:\Users\LOPEZJ\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.genruntimeconfig.cache
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.exe
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.deps.json
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.runtimeconfig.json
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.runtimeconfig.dev.json
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.dll
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingApp\bin\Debug\netcoreapp3.1\EssentialTrainingApp.pdb
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.csproj.AssemblyReference.cache
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.AssemblyInfoInputs.cache
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.AssemblyInfo.cs
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.dll
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.pdb
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingApp\obj\Debug\netcoreapp3.1\EssentialTrainingApp.genruntimeconfig.cache

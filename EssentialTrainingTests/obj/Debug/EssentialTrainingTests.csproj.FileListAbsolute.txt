@@ -14,3 +14,19 @@ C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingTests\obj\Debug\
 C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.CopyComplete
 C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.dll
 C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.pdb
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.dll
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.pdb
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\bin\Debug\EssentialTrainingTests.dll
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\bin\Debug\EssentialTrainingTests.pdb
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\bin\Debug\EssentialTraining.dll
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\bin\Debug\EssentialTraining.pdb
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.AssemblyReference.cache
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.CoreCompileInputs.cache
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTrainingTests\obj\Debug\EssentialTrainingTests.csproj.CopyComplete

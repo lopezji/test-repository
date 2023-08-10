@@ -6,9 +6,9 @@ To test graphs in github
 flowchart LR
     subgraph "BUILDMACHINE"
         direction LR
-        subgraph a1[/.tar Files/]
+        subgraph tarFiles
         end
-        subgraph a2[/Hashes/]
+        subgraph Hashes
         end
      end
 ```
@@ -18,7 +18,7 @@ flowchart LR
         direction LR
             subgraph b1[Generate Hashes]
                 direction TB
-                 b11[Process Tar Files] --> b12[/Hashes Files/]
+                 b11[Process Tar Files] -- > b12[/Hashes Files/]
             end
             subgraph Crontab
                 direction TB 

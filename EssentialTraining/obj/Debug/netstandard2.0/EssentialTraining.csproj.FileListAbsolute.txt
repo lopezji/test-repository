@@ -6,3 +6,13 @@ C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTraining\obj\Debug\netst
 C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.csproj.CoreCompileInputs.cache
 C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.dll
 C:\Users\LOPEZJ\source\repos\EssentialTraining\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.pdb
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTraining\bin\Debug\netstandard2.0\EssentialTraining.deps.json
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTraining\bin\Debug\netstandard2.0\EssentialTraining.dll
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTraining\bin\Debug\netstandard2.0\EssentialTraining.pdb
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.csproj.AssemblyReference.cache
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.AssemblyInfoInputs.cache
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.AssemblyInfo.cs
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.csproj.CoreCompileInputs.cache
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.dll
+C:\Users\LOPEZJ\OneDrive - Aspen Technology, Inc\Documents\GitHub\test-repository\EssentialTraining\obj\Debug\netstandard2.0\EssentialTraining.pdb

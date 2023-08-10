@@ -23,7 +23,7 @@ namespace EssentialTrainingApp
         {
             try
             {
-                using (var sr = new StreamReader(@"C:\Users\LOPEZJ\Training\OptiPlantTestProject\tem\tem.txt"))
+                using (var sr = new StreamReader(@"E:\Training\OptiPlantTestProject\tem\tem.txt"))
                 {
                     string contents = sr.ReadToEnd();
                     Console.WriteLine(contents);
