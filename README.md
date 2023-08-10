@@ -3,7 +3,7 @@ To test graphs in github
 
 ```mermaid
 flowchart LR
-    subgraph BUILDMACHINE
+    subgraph "BUILD MACHINE"
         direction LR
         subgraph .tarFiles
         end
@@ -24,6 +24,6 @@ flowchart LR
             GenerateHashes --> Crontab
      end               
 
-     BUILDMACHINE --> HashSigningServer
+     "BUILD MACHINE" --> HashSigningServer
 
 ```
