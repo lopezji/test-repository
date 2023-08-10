@@ -5,10 +5,10 @@ To test graphs in github
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
     subgraph a["BUILD MACHINE"]
-        direction LR
-            [/Tar Files/]
-            [/Hashes/]
-     end
+        direction TB
+            a1[/Tar Files/]
+            a2[/Hashes/]
+    end
 ```
 
 <!--
