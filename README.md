@@ -4,14 +4,14 @@ To test graphs in github
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-    subgraph a[BUILD MACHINE]
+    subgraph "BUILD MACHINE"
         direction LR
         subgraph a1[/.tar Files/]
         end
         subgraph a2[/Hashes/]
         end
      end
-
+<!--
      subgraph b[Hash Signing Server]
         direction LR
             subgraph b1[Generate Hashes]
@@ -29,4 +29,5 @@ flowchart LR
 
      a --> b
 
+-->
 ```
