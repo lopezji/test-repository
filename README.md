@@ -6,10 +6,8 @@ To test graphs in github
 flowchart LR
     subgraph a["BUILD MACHINE"]
         direction LR
-        subgraph a//"tar Files"//
-        end
-        subgraph Hashes
-        end
+            [/"tar Files"/]
+            [/Hashes/]
      end
 ```
 
