@@ -9,23 +9,25 @@ flowchart LR
             a1[/Tar Files/]
             a2[/Hashes/]
     end
-```
 
-<!--
-     subgraph b[Hash Signing Server]
+     subgraph b["Hash Signing Server"]
         direction LR
             subgraph b1[Generate Hashes]
                 direction TB
-                 b11[Process Tar Files] -- > b12[/Hashes Files/]
+                 b11[Process Tar Files] --> b12[/Hashes Files/]
             end
+
             subgraph Crontab
                 direction TB 
-                RunJob -- > b2[Create Signatures]
-                b2 -- > b3[/Signature Files/]
+                RunJob --> b2[Create Signatures]
+                b2 --> b3[/Signature Files/]
             end 
-            b1 -- > Crontab
+
+
+
+            b1 --> Crontab
             
      end               
 
-     a -- > b
--->
+     a --> b
+```
