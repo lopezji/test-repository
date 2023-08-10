@@ -2,6 +2,7 @@ To test graphs in github
 
 
 ```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
     subgraph a[BUILD MACHINE]
         direction LR
