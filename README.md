@@ -7,7 +7,7 @@ flowchart LR
         direction LR
         subgraph .tar Files
         end
-        subgrpah Hashes
+        subgraph Hashes
         end
      end
 
