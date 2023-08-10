@@ -4,7 +4,7 @@ To test graphs in github
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-    subgraph "BUILDMACHINE"
+    subgraph "BUILD MACHINE"
         direction LR
         subgraph tarFiles
         end
