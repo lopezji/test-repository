@@ -4,27 +4,29 @@ To test graphs in github
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-    subgraph a"BUILD MACHINE"
+    subgraph a[[BUILD MACHINE]]
         direction LR
-        subgraph a1/".tar Files"/
+        subgraph a1[/.tar Files/]
         end
-        subgraph a2/"Hashes"/
+        subgraph a2[/Hashes/]
         end
      end
 
-     subgraph b"HashSigningServer"
+     subgraph b[[Hash Signing Server]]
         direction LR
-            subgraph GenerateHashes
+            subgraph b1[[Generate Hashes]]
                 direction TB
-                 (Process Tar Files) --> /"Hashes Files"/
+                 ([Process Tar Files]) --> [/Hashes Files/]
             end
             subgraph Crontab
                 direction TB 
-                RunJob --> CreateSignatures
+                RunJob --> b2[[Create Signatures]]
+                b2 --> b3[/Signature Files/]
             end 
-            GenerateHashes --> Crontab
+            b1 --> Crontab
+            
      end               
 
-     "BUILD MACHINE" --> HashSigningServer
+     a --> b
 
 ```
