@@ -12,24 +12,21 @@ flowchart LR
 
      subgraph b["Hash Signing Server"]
         direction TB
-            subgraph b1[Generate Hashes]
+            subgraph b1[Manual Processes Hashes]
                 direction TB
-                 b11[Process Tar Files] --> b12[/Hashes Files/]
+                b11(Process Tar Files) --> b12[/Hashes Files/]
+                c1("Create Final Files") --> c2[/Final KB tar files/]
             end
 
             subgraph b2["Crontab"]
                 direction TB 
-                b21["Run Job"] --> b22[Create Signatures]
+                b21("Run Job") --> b22(Create Signatures)
                 b22 --> b23[/Signature Files/]
             end 
-
-            c1("Create Final Files") --> c2[/Final KB tar files/]
-
-            b12 --> b21
+            b12 --> b2
             
      end               
 
-     a --> b21
+     a --> b
 
-     b -- "Final KB tar files" --> a
 ```
