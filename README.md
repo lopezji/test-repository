@@ -11,7 +11,7 @@ flowchart LR
     end
 
      subgraph b["Hash Signing Server"]
-        direction LR
+        direction TB
             subgraph b1[Generate Hashes]
                 direction TB
                  b11[Process Tar Files] --> b12[/Hashes Files/]
@@ -24,7 +24,6 @@ flowchart LR
             end 
 
             c1("Create Final Files") --> c2[/Final KB tar files/]
-
 
             b1 --> b2
             b12 --> b21
