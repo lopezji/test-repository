@@ -17,16 +17,17 @@ flowchart LR
                  b11[Process Tar Files] --> b12[/Hashes Files/]
             end
 
-            subgraph Crontab
+            subgraph b2["Crontab"]
                 direction TB 
-                RunJob --> b2[Create Signatures]
-                b2 --> b3[/Signature Files/]
+                b21["Run Job"] --> b22[Create Signatures]
+                b22 --> b23[/Signature Files/]
             end 
 
             c1("Create Final Files") --> c2[/Final KB tar files/]
 
 
-            b12 --> Crontab
+            b1 --> b2
+            b12 --> b21
             
      end               
 
