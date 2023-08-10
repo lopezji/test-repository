@@ -3,19 +3,19 @@ To test graphs in github
 
 ```mermaid
 flowchart LR
-    subgraph "BUILD MACHINE"
+    subgraph a"BUILD MACHINE"
         direction LR
-        subgraph .tarFiles
+        subgraph a1/".tar Files"/
         end
-        subgraph Hashes
+        subgraph a2/"Hashes"/
         end
      end
 
-     subgraph HashSigningServer
+     subgraph b"HashSigningServer"
         direction LR
             subgraph GenerateHashes
                 direction TB
-                 ProcessTarFiles --> HashesFiles
+                 (Process Tar Files) --> /"Hashes Files"/
             end
             subgraph Crontab
                 direction TB 
