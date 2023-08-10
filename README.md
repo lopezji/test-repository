@@ -11,6 +11,7 @@ flowchart LR
         subgraph a2[/Hashes/]
         end
      end
+```
 <!--
      subgraph b[Hash Signing Server]
         direction LR
@@ -28,6 +29,4 @@ flowchart LR
      end               
 
      a --> b
-
 -->
-```
