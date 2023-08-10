@@ -4,7 +4,7 @@ To test graphs in github
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-    subgraph "BUILD MACHINE"
+    subgraph "BUILDMACHINE"
         direction LR
         subgraph a1[/.tar Files/]
         end
@@ -12,6 +12,7 @@ flowchart LR
         end
      end
 ```
+
 <!--
      subgraph b[Hash Signing Server]
         direction LR
@@ -21,12 +22,12 @@ flowchart LR
             end
             subgraph Crontab
                 direction TB 
-                RunJob --> b2[Create Signatures]
-                b2 --> b3[/Signature Files/]
+                RunJob -- > b2[Create Signatures]
+                b2 -- > b3[/Signature Files/]
             end 
-            b1 --> Crontab
+            b1 -- > Crontab
             
      end               
 
-     a --> b
+     a -- > b
 -->
