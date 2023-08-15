@@ -26,7 +26,7 @@ flowchart LR
 
             b12 --> b2
             
-            b23 --> c1
+            b2 --> c1
      end               
 
      a --> b
