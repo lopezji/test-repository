@@ -23,8 +23,10 @@ flowchart LR
                 b21("Run Job") --> b22(Create Signatures)
                 b22 --> b23[/Signature Files/]
             end 
+
             b12 --> b2
             
+            b23 --> c1
      end               
 
      a --> b
